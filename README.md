@@ -1,1 +1,1 @@
-# python
+# Başlangıç_Düzeyinde_Python_Projeleri
